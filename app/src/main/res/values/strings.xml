@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Project Azwar</string>
+
+    <string-array name="data_name">
+        <item>Arena Of Valor (AoV)</item>
+        <item>Mobile Legends</item>
+        <item>Free Fire</item>
+        <item>PUBG Mobile</item>
+        <item>Jones: Jomblo is Happiness</item>
+        <item>Epic Conquest</item>
+        <item>Ragnarok M: Eternal love</item>
+        <item>Sword Art Online: Integral Factor</item>
+        <item>Clash Royale</item>
+        <item>Alto’s Odyysey</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item> Pilihan alternatif untuk MOBA. Di antara Arena of Valor (AoV) dan Mobile Legends selalu menjadi pilihan yang susah bagi gamer untuk memainkannya. Pada akhirnya, para gamer biasa meng-install keduanya dan bergantian memainkannya. AoV tetap menjadi salah satu game yang wajib di-install di ponsel hingga sekarang</item>
+        <item>Salah satu pilihan paling masuk akal untuk meng-install Mobile Legends (ML) ke smartphone orang-orang. Selain karena gratis, ML menawarkan game yang sangat kompetitif, yang bagi penggemar Multiplayer Online Battle Arena (MOBA) adalah sesuatu yang tak terelakkan. Jika kamu ingin bermain DOTA 2, tapi sedang tak memiliki PC, ML bisa jadi pilihan alternatif.</item>
+        <item>Free Fire adalah pilihan alternatifmu jika ingin bermain game battle royale di ponsel selain dari PUBG. Dengan jumlah pemain yang lebih sedikit, yaitu 50 orang per satu room, Free Fire menjadi game battle royale yang cukup cepat. Jika ingin memainkan battle royale dengan waktu yang lebih cepat dibandingkan jenis lainnya yang serupa, Free Fire adalah pilihan yang bagus.</item>
+        <item>Masuk ke pasar mobile, Player Unknowns Battleground (PUBG) sukses membuat demam orang-orang untuk bermain game bergaya battle royale. Pada awal rilis, banyak yang menyangsikan game ini akan lebih baik daripada versi PC-nya, namun ternyata hal itu ditepis. Malahan sekarang banyak yang lebih memilih untuk bermain versi mobile-nya lantaran grafis yang sudah cukup bagus.</item>
+        <item>Salah satu lagi game garapan developer Indonesia. Kali ini bukanlah game-game bergaya action RPG ataupun strategi, melainkan sebuah visual novel. Kamu akan mengikuti sebuah cerita anak SMA dalam mencari cinta yang mana kamu akan memilih jalan ceritamu lewat pilihan-pilihan yang ada. Game ini perlu dibeli dahulu sebelum dimainkan, tetapi hanya Rp9 ribu saja.</item>
+        <item>Adalah game buatan studio Indonesia. Gaco Games mempersembahkan game bergaya action RPG. Sekilas jika memperhatikan artstyle-nya, maka akan terpikirkan Seal Online, tetapi Epic. Conquest memiliki cara bermain yang jauh berbeda dan terlebih adalah game offline. Banyak yang memuji game ini memiliki cerita yang bagus pula, jadi mengapa tidak memainkannya?</item>
+        <item>Game yang paling heboh untuk akhir tahun 2018 ini. Ragnarok M sukses menghadirkan suasana nostalgia bagi para penggemar game klasik online di era pertengahan 2000. Banyak perubahan sistem yang terjadi pada versi mobile ini, tetapi para pemainnya masih banyak berharap dan menunggu akan hadirnya fitur-fitur yang ada pada game lama, seperti trading dan War of Emporium.</item>
+        <item>Diambil dari manga dan anime ternama Sword Art Online sendiri, seri game ini sangat bagus. Action RPG dari game ini memiliki grafis yang tinggi serta cara bermain yang tidak sembarangan. Kamu akan menemui banyak monster di sepanjang perjalanannmu yang mana itu serasa seperti bermain game online di PC. Kamu tidak akan bosan dengan game ini. Begitulah daftar dari IDN Times. Oh iya, daftar ini tidak berurutan ya yang berarti semua gamenya memiliki porsi kualitas yang bagus. Hanya tinggal masalah selera saja yang menentukan apakah betah kamu mainkan atau tidak.</item>
+        <item>Clash Royale dijadikan sebagai salah satu cabang olahraga di Olimpiade. Itu berarti game ini sudah diakui sebagai bagian dari e-sport dan diakui kualitasnya. Tapi memang, Clash Royale sangatlah kompetitif. Kamu dituntut untuk menyerang benteng lawan sekaligus bertahan yang berarti peletakan dan urutan prajurit harus tepat. Clash Royale melatihmu berpikir cepat.</item>
+        <item>Ini adalah tipe game untuk membuang waktumu ketika berjalan-jalan. Diakui oleh Apple sebagai game dengan desain terbaik untuk 2018, game ini sangatlah mudah dimainkan walaupun grafisnya indah dan menenangkan. Kamu hanya harus mencapai jarak terjauh dengan berseluncur di padang pasir dan menyelesaikan beberapa misi yang ada. Ketika bosan dalam menunggu, Alto’s Odyysey bisa benar-benar menghiburmu.</item>
+    </string-array>
+
+
+    <array name="data_photo">
+        <item>@drawable/aov</item>
+        <item>@drawable/ml</item>
+        <item>@drawable/ff</item>
+        <item>@drawable/pubg</item>
+        <item>@drawable/jones</item>
+        <item>@drawable/epicongues</item>
+        <item>@drawable/ragnarok</item>
+        <item>@drawable/integral</item>
+        <item>@drawable/clashroyal</item>
+        <item>@drawable/alto</item>
+    </array>
+
+</resources>
